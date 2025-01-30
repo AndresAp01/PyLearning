@@ -9,6 +9,19 @@ In '' I will be posting ...
 
 By emojis: 
 - :seedling: for currently learning
-- :fallen_leaf: for dropped courses
 - :evergreen_tree: for finished courses
 - :rosette: for favourites;)
+
+# PyLearning 🐶:
+## Mis archivos y proyectos Python mientras aprendo :+1:
+
+❇️ 🌱 En la carpeta 'BroCode Tutorial' estaré publicando el tutorial seguido del youtuber [@Bro Code](https://www.youtube.com/@BroCodez) de su video sobre Python Curso Completo Gratuito.
+
+❇️ 🌱 En la carpeta '30 Days Challenge' estaré publicando [@Asabeneh](https://github.com/Asabeneh/30-Days-Of-Python) 30 Days of Python Challenge, día a día.
+
+En '' estaré posteando ... 
+
+Por emojis: 
+- :seedling: para lo que actualmente estoy aprendiendo
+- :evergreen_tree: para cursos terminados
+- :rosette: para favoritos;)
