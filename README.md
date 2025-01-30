@@ -12,18 +12,18 @@ By emojis:
 - :evergreen_tree: for finished courses
 - :rosette: for favourites;)
 
-# PyLearning :perro:
+# PyLearning 🐶:
 ## Mis archivos y proyectos Python mientras aprendo :+1:
 
-:chispa: :semillero: En la carpeta 'BroCode Tutorial' estaré publicando el tutorial seguido del youtuber [@Bro Code](https://www.youtube.com/@BroCodez) de su video sobre Python Curso Completo Gratuito.
+❇️ 🌱 En la carpeta 'BroCode Tutorial' estaré publicando el tutorial seguido del youtuber [@Bro Code](https://www.youtube.com/@BroCodez) de su video sobre Python Curso Completo Gratuito.
 
-:chispa: :semillero: En la carpeta '30 Days Challenge' estaré publicando [@Asabeneh](https://github.com/Asabeneh/30-Days-Of-Python) 30 Days of Python Challenge, día a día.
+❇️ 🌱 En la carpeta '30 Days Challenge' estaré publicando [@Asabeneh](https://github.com/Asabeneh/30-Days-Of-Python) 30 Days of Python Challenge, día a día.
 
 En '' estaré posteando ... 
 
 Por emojis: 
-- :plántula: para el aprendizaje actual
-- :árbol_perenne: para cursos terminados
-- :roseta: para favoritos;)
+- :seedling: para el aprendizaje actual
+- :evergreen_tree: para cursos terminados
+- :rosette: para favoritos;)
 
 Traducción realizada con la versión gratuita del traductor DeepL.com
