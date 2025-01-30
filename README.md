@@ -22,8 +22,6 @@ By emojis:
 En '' estaré posteando ... 
 
 Por emojis: 
-- :seedling: para el aprendizaje actual
+- :seedling: para lo que actualmente estoy aprendiendo
 - :evergreen_tree: para cursos terminados
 - :rosette: para favoritos;)
-
-Traducción realizada con la versión gratuita del traductor DeepL.com
